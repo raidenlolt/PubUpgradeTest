@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 10db2495a40035a47bf6b425ba838f1d
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: JONES_7_bn_abs
+    100004: JONES_7_bn_head
+    100006: JONES_7_bn_hip
+    100008: JONES_7_bn_L_ankle
+    100010: JONES_7_bn_L_ball
+    100012: JONES_7_bn_L_chest
+    100014: JONES_7_bn_L_clavicle
+    100016: JONES_7_bn_L_elbow
+    100018: JONES_7_bn_L_index1
+    100020: JONES_7_bn_L_index2
+    100022: JONES_7_bn_L_index3
+    100024: JONES_7_bn_L_knee
+    100026: JONES_7_bn_L_middle1
+    100028: JONES_7_bn_L_middle2
+    100030: JONES_7_bn_L_middle3
+    100032: JONES_7_bn_L_pinky1
+    100034: JONES_7_bn_L_pinky2
+    100036: JONES_7_bn_L_pinky3
+    100038: JONES_7_bn_L_ring1
+    100040: JONES_7_bn_L_ring2
+    100042: JONES_7_bn_L_ring3
+    100044: JONES_7_bn_L_shoulder
+    100046: JONES_7_bn_L_thumb
+    100048: JONES_7_bn_L_toe
+    100050: JONES_7_bn_L_uleg
+    100052: JONES_7_bn_L_wrist
+    100054: JONES_7_bn_R_ankle
+    100056: JONES_7_bn_R_ball
+    100058: JONES_7_bn_R_clavicle
+    100060: JONES_7_bn_R_elbow
+    100062: JONES_7_bn_R_index1
+    100064: JONES_7_bn_R_index2
+    100066: JONES_7_bn_R_index3
+    100068: JONES_7_bn_R_knee
+    100070: JONES_7_bn_R_middle1
+    100072: JONES_7_bn_R_middle2
+    100074: JONES_7_bn_R_middle3
+    100076: JONES_7_bn_R_pinky1
+    100078: JONES_7_bn_R_pinky2
+    100080: JONES_7_bn_R_pinky3
+    100082: JONES_7_bn_R_ring1
+    100084: JONES_7_bn_R_ring2
+    100086: JONES_7_bn_R_ring3
+    100088: JONES_7_bn_R_shoulder
+    100090: JONES_7_bn_R_thumb
+    100092: JONES_7_bn_R_toe
+    100094: JONES_7_bn_R_uleg
+    100096: JONES_7_bn_R_wrist
+    100098: JONES_7_joint19
+    100100: JONES_7_joint19 1
+    100102: JONES_7_joint9
+    100104: JONES_7_jones_masterctrl
+    100106: polySurface22
+    400000: //RootNode
+    400002: JONES_7_bn_abs
+    400004: JONES_7_bn_head
+    400006: JONES_7_bn_hip
+    400008: JONES_7_bn_L_ankle
+    400010: JONES_7_bn_L_ball
+    400012: JONES_7_bn_L_chest
+    400014: JONES_7_bn_L_clavicle
+    400016: JONES_7_bn_L_elbow
+    400018: JONES_7_bn_L_index1
+    400020: JONES_7_bn_L_index2
+    400022: JONES_7_bn_L_index3
+    400024: JONES_7_bn_L_knee
+    400026: JONES_7_bn_L_middle1
+    400028: JONES_7_bn_L_middle2
+    400030: JONES_7_bn_L_middle3
+    400032: JONES_7_bn_L_pinky1
+    400034: JONES_7_bn_L_pinky2
+    400036: JONES_7_bn_L_pinky3
+    400038: JONES_7_bn_L_ring1
+    400040: JONES_7_bn_L_ring2
+    400042: JONES_7_bn_L_ring3
+    400044: JONES_7_bn_L_shoulder
+    400046: JONES_7_bn_L_thumb
+    400048: JONES_7_bn_L_toe
+    400050: JONES_7_bn_L_uleg
+    400052: JONES_7_bn_L_wrist
+    400054: JONES_7_bn_R_ankle
+    400056: JONES_7_bn_R_ball
+    400058: JONES_7_bn_R_clavicle
+    400060: JONES_7_bn_R_elbow
+    400062: JONES_7_bn_R_index1
+    400064: JONES_7_bn_R_index2
+    400066: JONES_7_bn_R_index3
+    400068: JONES_7_bn_R_knee
+    400070: JONES_7_bn_R_middle1
+    400072: JONES_7_bn_R_middle2
+    400074: JONES_7_bn_R_middle3
+    400076: JONES_7_bn_R_pinky1
+    400078: JONES_7_bn_R_pinky2
+    400080: JONES_7_bn_R_pinky3
+    400082: JONES_7_bn_R_ring1
+    400084: JONES_7_bn_R_ring2
+    400086: JONES_7_bn_R_ring3
+    400088: JONES_7_bn_R_shoulder
+    400090: JONES_7_bn_R_thumb
+    400092: JONES_7_bn_R_toe
+    400094: JONES_7_bn_R_uleg
+    400096: JONES_7_bn_R_wrist
+    400098: JONES_7_joint19
+    400100: JONES_7_joint19 1
+    400102: JONES_7_joint9
+    400104: JONES_7_jones_masterctrl
+    400106: polySurface22
+    4300000: polySurface22
+    7400000: Take 001
+    11100000: //RootNode
+    13700000: polySurface22
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0450000018
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DrunkLevel>
+       <Level1>
+              <Count1>
+                     <Player>Hey Mike, How have you been?</Player>
+                     <AI>Doing good, Its been long man!</AI>
+                 </Count1>
+              <Count2>
+                     <Player>How are you? So when did you get here?</Player>
+                     <AI>About 5 min back</AI>
+                 </Count2>
+              <Count3>
+                     <Player>Lets get a booth and a couple of beers</Player>
+                     <AI>Lets get some food first, the night is still young</AI>
+                 </Count3>
+          </Level1>
+       <Level2>
+              <Count1>
+                     <Player></Player>
+                     <AI></AI>
+                 </Count1>
+              <Count2>
+                     <Player></Player>
+                     <AI></AI>
+                 </Count2>
+              <Count3>
+                     <Player></Player>
+                     <AI></AI>
+                 </Count3>
+          </Level2>
+       <Level3>
+              <Count1>
+                     <Player></Player>
+                     <AI></AI>
+                 </Count1>
+              <Count2>
+                     <Player></Player>
+                     <AI></AI>
+                 </Count2>
+              <Count3>
+                     <Player></Player>
+                     <AI></AI>
+                 </Count3>
+          </Level3>
+       <Level4>
+              <Count1>
+                     <Player></Player>
+                     <AI></AI>
+                 </Count1>
+              <Count2>
+                     <Player></Player>
+                     <AI></AI>
+                 </Count2>
+              <Count3>
+                     <Player></Player>
+                     <AI></AI>
+                 </Count3>
+          </Level4>
+       <Level5>
+              <Count1>
+                     <Player></Player>
+                     <AI></AI>
+                 </Count1>
+              <Count2>
+                     <Player></Player>
+                     <AI></AI>
+                 </Count2>
+              <Count3>
+                     <Player></Player>
+                     <AI></AI>
+                 </Count3>
+          </Level5>
+   </DrunkLevel>
+

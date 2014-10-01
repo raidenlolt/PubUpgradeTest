@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: 519b0d4c1b2378144ad1894690da2d92
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: boy
+    100002: Dale_rig_3:dale_geo
+    100004: Dale_rig_3:group10
+    100006: Dale_rig_5:dale_geo
+    100008: Dale_rig_5:group10
+    100010: Dale_rig_6:dale_geo
+    100012: Dale_rig_6:group10
+    100014: Dale_rig_7:dale_geo
+    100016: Dale_rig_7:group10
+    100018: //RootNode
+    100020: JONES_7:jones
+    100022: JONES_8:jones
+    100024: milo_v8:milo:Mesh
+    100026: milo_v8:milo_grp
+    100028: milo_v9:milo:Mesh
+    100030: milo_v9:milo_grp
+    100032: takeaglas:boy
+    400000: boy
+    400002: Dale_rig_3:dale_geo
+    400004: Dale_rig_3:group10
+    400006: Dale_rig_5:dale_geo
+    400008: Dale_rig_5:group10
+    400010: Dale_rig_6:dale_geo
+    400012: Dale_rig_6:group10
+    400014: Dale_rig_7:dale_geo
+    400016: Dale_rig_7:group10
+    400018: //RootNode
+    400020: JONES_7:jones
+    400022: JONES_8:jones
+    400024: milo_v8:milo:Mesh
+    400026: milo_v8:milo_grp
+    400028: milo_v9:milo:Mesh
+    400030: milo_v9:milo_grp
+    400032: takeaglas:boy
+    2300000: boy
+    2300002: Dale_rig_3:dale_geo
+    2300004: Dale_rig_5:dale_geo
+    2300006: Dale_rig_6:dale_geo
+    2300008: Dale_rig_7:dale_geo
+    2300010: JONES_7:jones
+    2300012: JONES_8:jones
+    2300014: milo_v8:milo:Mesh
+    2300016: milo_v9:milo:Mesh
+    2300018: takeaglas:boy
+    3300000: boy
+    3300002: Dale_rig_3:dale_geo
+    3300004: Dale_rig_5:dale_geo
+    3300006: Dale_rig_6:dale_geo
+    3300008: Dale_rig_7:dale_geo
+    3300010: JONES_7:jones
+    3300012: JONES_8:jones
+    3300014: milo_v8:milo:Mesh
+    3300016: milo_v9:milo:Mesh
+    3300018: takeaglas:boy
+    4300000: boy
+    4300002: Dale_rig_3:dale_geo
+    4300004: JONES_7:jones
+    4300006: JONES_8:jones
+    4300008: takeaglas:boy
+    4300010: Dale_rig_5:dale_geo
+    4300012: milo_v8:milo:Mesh
+    4300014: Dale_rig_6:dale_geo
+    4300016: Dale_rig_7:dale_geo
+    4300018: milo_v9:milo:Mesh
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
