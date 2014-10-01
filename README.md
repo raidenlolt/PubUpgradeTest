@@ -1,0 +1,4 @@
+PubUpgradeTest
+==============
+
+Testing upgraded project
